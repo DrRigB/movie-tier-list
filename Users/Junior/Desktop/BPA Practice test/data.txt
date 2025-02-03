@@ -1,6 +1,0 @@
-Hello World!
-Python
-BPA
-bla val
-bla bla bla
-mcctc rocks
